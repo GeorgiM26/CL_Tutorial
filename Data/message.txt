@@ -1,0 +1,6 @@
+You will read this line once you use this file in the terminal!
+This line as well.
+Another line to read.
+Not over.
+Nope, not yet.
+You're free!
